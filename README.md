@@ -1,6 +1,6 @@
 
 
-project：COVID-19 Infection Segmentation
+project：SSVEP-Based Vehicle Control System
 
 Signal Acquisition and Processing Code Example for the SSVEP-Based Vehicle Control System
 
